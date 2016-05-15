@@ -1,3 +1,3 @@
 # animals
-cs473 peoject
+cs473 project.
 It requires SFML library.
